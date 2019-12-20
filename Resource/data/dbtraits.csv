@@ -1,0 +1,101 @@
+Name,Type,Level,Measurement,MeasurementIndex,Label,Unit,Description
+M_QH_DryWeightGreenLeafRemain,Crop,Measurement,QuadratHarvest,1,Dry weight of green leaf for quadrat harvest ,g,Dry weight of green leaf for quadrat harvest 
+M_QH_DryWeightGreenLeafSub,Crop,Measurement,QuadratHarvest,2,Dry weight of sub-sample of leaf area for quadrat harvest,g,Dry weight of sub-sample of leaf area for quadrat harvest
+M_QH_DryWeightDeathLeaf,Crop,Measurement,QuadratHarvest,3,Dry weight of death leaf for quadrat harvest,g,Dry weight of death leaf for quadrat harvest
+M_QH_DryWeightStem,Crop,Measurement,QuadratHarvest,4,Dry weight of stem for quadrat harvest,g,Dry weight of stem for quadrat harvest
+M_QH_DryWeightHead,Crop,Measurement,QuadratHarvest,5,Dry weight of head for quadrat harvest,g,Dry weight of head for quadrat harvest
+M_QH_DryWeightGrain,Crop,Measurement,QuadratHarvest,6,Dry weight of grain for quadrat harvest (excluding heads),h,Dry weight of grain for quadrat harvest (excluding heads)
+M_QH_HarvestArea,Crop,Measurement,QuadratHarvest,,Total harvested area for quadrat harvest,cm2,Total harvested area for quadrat harvest
+M_QH_FreshWeightTotal,Crop,Measurement,QuadratHarvest,,Fresh weight of all harvested samples for quadrat harvest,g,Fresh weight of all harvested samples for quadrat harvest
+M_QH_FreshWeight,Crop,Measurement,QuadratHarvest,,Fresh weight of sub-sample for quadrat harvest,g,Fresh weight of sub-sample for quadrat harvest
+M_QH_StemNumber,Crop,Measurement,QuadratHarvest,,Stem number of sub-sample for quadrat harvest,#,Stem number of sub-sample for quadrat harvest
+M_QH_HeadNumber,Crop,Measurement,QuadratHarvest,,Head number of sub-sample for quadrat harvest,#,Head number of sub-sample for quadrat harvest
+M_QH_FreshWeightGreenLeafSub,Crop,Measurement,QuadratHarvest,,Fresh weight of leaf sub-sample for quadrat harvest,g,Fresh weight of leaf sub-sample for quadrat harvest
+M_QH_LeafAreaGreenLeafSub,Crop,Measurement,QuadratHarvest,,Leaf area of leaf sub-sample for quadrat harvest,cm2,Leaf area of leaf sub-sample for quadrat harvest
+M_QH_FreshWeightGreenLeafRemain,Crop,Measurement,QuadratHarvest,,Fresh weight of remaining green leaf in sub-sample for quadrat harvest,g,Fresh weight of remaining green leaf in sub-sample for quadrat harvest
+M_QH_FreshWeightStem,Crop,Measurement,QuadratHarvest,,Fresh weight of stem for quadrat harvest,g,Fresh weight of stem for quadrat harvest
+M_QH_FreshWeightHead,Crop,Measurement,QuadratHarvest,,Fresh weight of head for quadrat harvest,g,Fresh weight of head for quadrat harvest
+M_QH_FreshWeightDeathLeaf,Crop,Measurement,QuadratHarvest,,Fresh weight of death leaf for quadrat harvest,g,Fresh weight of death leaf for quadrat harvest
+M_LS_DryWeightOrgan,Crop,Measurement,LeafSize,7,Dry weight of individual organ for leaf size harvest,g,"Dry weight of individual organ for leaf size harvest. Organs include leaf by rank, remaining leaf, stem and heads "
+M_LS_AreaOrgan,Crop,Measurement,LeafSize,8,Area of individual organ for leaf size harvest,g,"Area of individual organ for leaf size harvest. Organs  leaf by rank, remaining leaf, stem and heads "
+M_EstablishmentCount,Crop,Measurement,EstablishmentCount,,Number of plants in 1 linear meter,,Number of plants in 1 linear meter
+M_EmergenceRatio,Crop,Measurement,EmergenceRatio,,Emergence ratio,%,Percentage of seedling emergence
+M_LI_PARTop,Crop,Measurement,LightInterception,,PAR at the top of canopy,µmol photons/ (m2s),PAR at the top of canopy
+M_LI_PARBottom,Crop,Measurement,LightInterception,,PAR at the bottom of canopy,µmol photons/ (m2s),PAR at the bottom of canopy
+P_DryWeightGreenLeaf,Crop,Plant,,,Dry weight of green leaf in single plant,g,Dry weight of green leaf in single plant
+P_DryWeightStem,Crop,Plant,,,Dry weight of stem in single plant,g,Dry weight of stem in single plant
+P_LeafArea,Crop,Plant,,,Total leaf area in single plant,cm2,Total leaf area in single plant
+P_HeadNumber,Crop,Plant,,,Number of heads per plant,#,Number of heads per plant
+P_StemNumber,Crop,Plant,,,Stem number per plant,#,Stem number per plant
+P_TillerNumber,Crop,Plant,,,Tiller number per plant,No.,Tiller number per plant
+P_ZadoksScore,Crop,Plant,,,Zadoks score,-,Zadoks score
+P_PlantHeight,Crop,Plant,,,Plant height,cm,Plant height
+O_HaunIndex,Crop,Organ,,,Haun index,-,Haun index for stem (normally for main stem)
+O_DeathLeafNumber,Crop,Organ,,,Number of death leaf on a stem,No.,Number of death leaf on a stem
+O_GreenLeafNumber,Crop,Organ,,,Number of green leaf on a stem,No.,Number of green leaf on a stem
+O_LeafArea,Crop,Organ,,,Area of individual leaf,cm2,Area of individual leaf
+O_LeafLength,Crop,Organ,,,Length of individual leaf,cm,Length of individual leaf
+O_LeafMaximumWidth,Crop,Organ,,,Maximum width of individual leaf,cm,Maximum width of individual leaf
+O_InternodeLength,Crop,Organ,,,Length of individual internode,cm,Length of individual internode
+O_SheathLength,Crop,Organ,,,Length of individual sheath,cm,Length of individual sheath
+O_ChlorophyllSPAD,Crop,Organ,,,Chlorophyll measured by SPAD,-,Chlorophyll measured by SPAD
+O_FreshWeightGreenLeaf,Crop,Organ,,,Fresh  weight of individual green leaf,g,Fresh weight of individual green leaf
+O_DryWeightGreenLeaf,Crop,Organ,,,Dry weight of individual green leaf,g,Dry weight of individual green leaf
+O_SpecificLeafArea,Crop,Organ,,,Specific leaf area,cm2/g,Specific leaf area
+O_NitrogenConcentrationGreenLeaf,Crop,Organ,,,Nitrogen concentration of green leaf,g/g,Nitrogen concentration of green leaf
+O_NitrogenConcentrationStem,Crop,Organ,,,Nitrogen concentration of stem,g/g,Nitrogen concentration of stem
+O_NitrogenConcentrationGrain,Crop,Organ,,,Nitrogen concentration of grain,g/g,Nitrogen concentration of grain
+O_NitrogenConcentrationHead,Crop,Organ,,,Nitrogen concentration of head,g/g,Nitrogen concentration of head
+O_NitrogenConcentrationDeathLeaf,Crop,Organ,,,Nitrogen concentration of death leaf,g/g,Nitrogen concentration of death leaf
+O_CarbonConcentrationGreenLeaf,Crop,Organ,,,Carbon concentration of green leaf,g/g,Carbon concentration of green leaf
+O_CarbonConcentrationStem,Crop,Organ,,,Carbon concentration of stem,g/g,Carbon concentration of stem
+O_CarbonConcentrationGrain,Crop,Organ,,,Carbon concentration of grain,g/g,Carbon concentration of grain
+O_CarbonConcentrationHead,Crop,Organ,,,Carbon concentration of head,g/g,Carbon concentration of head
+O_CarbonConcentrationDeathLeaf,Crop,Organ,,,Carbon concentration of death leaf,g/g,Carbon concentration of death leaf
+O_FullyExpandedLeaves,Crop,Organ,,,Number of Fully expanded leaves on stem,#/stalk,Number of Fully expanded leaves on stem
+O_SenescedLeaves,Crop,Organ,,,Number of senesced leaves on stem,#/stalk,Number of senesced leaves on stem
+O_FinalLeafNumber,Crop,Organ,,,Final leaf number,#,Final leaf number
+O_DryWeightPerStem,Crop,Organ,,,Dry weight per stem,g/stem,Dry weight per stem
+F_Yield,Crop,Field,,,Yield,t/ha,Crop yield
+F_ThousandGrainWeight,Crop,Field,,,Thousand grain weight,g,Total weight per thousand grains
+F_StemNumber,Crop,Field,,,Stem number per square meter,#/m2,Stem number per square meter
+F_HeadNumber,Crop,Field,,,Head number per square meter,#/m2,Head number per square meter
+F_TillerNumber,Crop,Field,,,Number of tillers ,stalks/m2,Total tiller number per square meter
+F_LeafAreaIndex,Crop,Field,,,Leaf area index,m2/m2,Leaf area index
+F_DryWeightAboveGround,Crop,Field,,,Above ground dry weight,g/m2,Total dry weight of above organs per square meter
+F_DryWeightGreenLeaf,Crop,Field,,,Dry weight of green leaf,g/m2,Total green leaf dry weight per square meter
+F_DryWeightStem,Crop,Field,,,Dry weight of stem,g/m2,Total stem dry weight per square meter
+F_DryWeightHead,Crop,Field,,,Dry weight of panicle (including grain),g/m2,Total head dry weight per square meter (including Grain)
+F_DryWeightPanicle,Crop,Field,,,Dry weight of panicle (excluding grain),g/m2,Total head dry weight per square meter (excluding Grain)
+F_DryWeightGrain,Crop,Field,,,Grain dry weight,g/m2,Total grain dry weight per square meter
+F_DryWeightDeathLeaf,Crop,Field,,,Death leaf dry weight,g/m2,Total death leaf dry weight per square meter
+F_FreshWeightAboveGround,Crop,Field,,,Above ground fresh weight,g/m2,Total fresh weight of above organs per square meter
+F_FreshWeightGreenLeaf,Crop,Field,,,Fresh weight of green leaf,g/m2,Total green leaf fresh weight per square meter
+F_FreshWeightStem,Crop,Field,,,Fresh weight of stem,g/m2,Total stem fresh weight per square meter
+F_FreshWeightHead,Crop,Field,,,Fresh weight of panicle (including grain),g/m2,Total head fresh weight per square meter (including Grain)
+F_FreshWeightPanicle,Crop,Field,,,Fresh weight of panicle (excluding grain),g/m2,Total head fresh weight per square meter (excluding Grain)
+F_FreshWeightGrain,Crop,Field,,,Grain fresh weight,g/m2,Total grain fresh weight per square meter
+F_FreshWeightDeathLeaf,Crop,Field,,,Death leaf fresh weight,g/m2,Total death leaf fresh weight per square meter
+F_HeadYellowing,Crop,Field,,,Head yellowing,%,Percentage of head yellowing
+F_HectolitreWeight,Crop,Field,,,Grain weight per hectolitre,kg/hl,Density of grain as kilogram per hectolitre
+F_SpikeNumber,Crop,Field,,,Number of spikes,#/m2,Spike number per square meter (mian stem + tillers)
+F_WaterSolubleCarbohydrates,Crop,Field,,,Water-soluble carbohydrates,g/m2,Water-soluble carbohydrates
+F_NitrogenTranslocation,Crop,Field,,,Translocation Nitrogen,g/m2,Translocation nitrogen
+F_HarvestIndex,Crop,Field,,,Harvest Index,[],Harvect index
+F_Screening,Crop,Field,,,Percent Screening,%,Percent screening
+F_PanicleNumber,Crop,Field,,,Number of panicles,#/m2,Number of panicles (main stem + tiller)
+F_PanicleNumberMainStem,Crop,Field,,,Number of panicles in main stem,#/m2,Number of Panicles (main stem)
+F_PanicleNumberTiller,Crop,Field,,,Number of panicles in tillers,#/m2,Number of panicles (tillers)
+F_GrainNumber,Crop,Field,,,Grain Number,#/m2,grain number per unit area
+F_DryWeightGrainMachine,Crop,Field,,,Dry weight of grain machine harvested,g/m2,Dry Weight of Grain Machine harvested
+F_Population,Crop,Field,,,Number of plants in unit area,#/m2,Number of plants in unit area
+F_CanopyHeight,Crop,Field,,,Canopy height,cm,Canopy height
+F_HeadHeight,Crop,Field,,,Head height,cm,Head height
+F_PARInterception,Crop,Field,,,PAR interception,[],Intercepted PAR by a canopy
+F_Protein,Crop,Field,,,Protein concentration,%,Protein concentration
+F_Moisture,Crop,Field,,,Moisture concentration,%,Moisture concentration
+F_NDVI,Crop,Field,,,NDVI,[],NDVI
+F_GroundCover,Crop,Field,,,Ground cover,[],Ground cover
+F_SpecificLeafArea,Crop,Field,,,Specific leaf area in the canopy,cm2/g,Specific leaf area in the canopy
+F_NitrogenConcentrationAboveGround,Crop,Field,,,Nitrogen concentration of above ground,g/m2,Nitrogen concentration of above ground
+F_NitrogenConcentrationGrain,Crop,Field,,,Nitrogen concentration of grain,g/m2,Nitrogen concentration of grain
